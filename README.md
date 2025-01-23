@@ -1,0 +1,1 @@
+This project was an university project, to detect a human on a picture, and follows him using servo and steper motors. There is also an telegram bot, which sent you photo of the human which was detected with some intervals
